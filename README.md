@@ -5,4 +5,4 @@ This project is a Pokedex; it is designed so that is allows the user to find the
 
 ![HomeScreenLooksLike](/screenshot1.png?raw=true "Optional Title" | width=100)
 
-<img src="/screenshot1.png?raw=true"  width="120" height="120">
+<img src="/screenshot1.png?raw=true"  width="200" >
