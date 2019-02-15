@@ -6,11 +6,11 @@ Below are screenshots of the app:
 
 <img src="/screenshot1.png?raw=true"  width="200" >
 Start page
-\n
+
 
 <img src="/screenshot2.png?raw=true"  width="200" >
 Results page
-\n
+
 
 <img src="/screenshot3.png?raw=true"  width="200" >
 Details page
